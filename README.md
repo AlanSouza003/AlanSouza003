@@ -16,7 +16,10 @@ Let's connect and share knowledge! Feel free to reach out on any of these platfo
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
   <a href="https://github.com/AlanSouza003">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="  https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://web.dio.me/users/alansouzati03?tab=achievements">
+   <img src="https://img.shields.io/badge/DIO.ME-FFFFFF?style=for-the-badge&logo=digitalinnovationone&logoColor=000000)" />
   </a>
   <a href="https://instagram.com/alan_souuzza">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -60,9 +63,12 @@ Let's connect and share knowledge! Feel free to reach out on any of these platfo
 ## 📖 Philosophy
 
 > _"Don't view code as an obstacle, but as a challenge to solve."_
-
+---
+## 🏫 Education
+![SENAI](https://img.shields.io/badge/SENAI-005CA5?style=for-the-badge&logoColor=white) ![Curso em Vídeo](https://img.shields.io/badge/Curso_em_V%C3%ADdeo-00C0FF?style=for-the-badge&logoColor=white&labelColor=23AF3C) ![DIO](https://img.shields.io/badge/DIO.ME-000000?style=for-the-badge&logo=digitalinnovationone&logoColor=FEE611)
+![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white)
+![CoddyTech](https://img.shields.io/badge/CoddyTech-0078D4?style=for-the-badge&logoColor=white) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](SEU_LINK_AQUI)
 ---
 ### 🤝 Connect with me
 ⭐ If you like my profile or some of my projects, feel free to **follow me** or **star** a repository!  
 💬 I am always open to collaborations, partnerships, and cool ideas.
-
