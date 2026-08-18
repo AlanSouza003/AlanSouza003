@@ -53,8 +53,8 @@ Let's connect and share knowledge! Feel free to reach out on any of these platfo
 
 ## 📊 GitHub Stats
 <p align="left">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlanSouza003&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlanSouza003&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AlanSouza003&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanSouza003&layout=compact&theme=tokyonight" />
 </p>
 ---
 
