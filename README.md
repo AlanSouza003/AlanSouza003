@@ -1,7 +1,7 @@
 # Hi 👋, I am Alan Souza
 🚀 **Systems Development Student — Java | JavaScript & Python.** _🇧🇷 Brazil_
 
-**Systems Development Student — 1st Semester**, focused on mastering the fundamentals of computing and **building a solid foundation in programming**.
+**Systems Development Student — 2st Semester**, focused on mastering the fundamentals of computing and **building a solid foundation in programming**.
 
 I dedicate my daily studies to **learning advanced logic, algorithms, data structures, and clean code**.
 
