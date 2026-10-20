@@ -6,7 +6,9 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFD700&size=24&center=true&vCenter=true&width=800&duration=3000&pause=1200&repeat=true&lines=Estudante+de+Desenvolvimento+de+Sistemas;Python+%7C+MySQL+%7C+React;Eterno+Aprendiz)
 
 </div>
+
 ---
+
 **Systems Development Student — 2st Semester**, focused on mastering the fundamentals of computing and **building a solid foundation in programming**.
 
 I dedicate my daily studies to **learning advanced logic, algorithms, data structures, and clean code**.
@@ -19,20 +21,24 @@ Currently, I am developing a practical project for the conversion and **manipula
 Let's connect and share knowledge! Feel free to reach out on any of these platforms:
 <p align="left">
   <a href="mailto:alansouzapessoal@outlook.com">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+    <img height="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/microsoft-outlook/default.svg" />
+    &nbsp;&nbsp;
   </a>
   <a href="https://github.com/AlanSouza003">
-    <img src="  https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img height="40" src="https://cdn.simpleicons.org/github/FFFFFF" />
   </a>
   <a href="https://web.dio.me/users/alansouzati03?tab=achievements">
-   <img src="https://img.shields.io/badge/DIO.ME-FFFFFF?style=for-the-badge&logo=digitalinnovationone&logoColor=000000)" />
+    <img height="40" src="https://hermes.digitalinnovation.one/assets/diome/logo.svg" />
+    &nbsp;&nbsp;
   </a>
   <a href="https://instagram.com/alan_souuzza">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img height="40" src="https://cdn.simpleicons.org/instagram/E4405F" />
+    &nbsp;&nbsp;
   </a>
   <a href="https://www.linkedin.com/in/alan-souza-538889394/">
-   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+    <img height="40" src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.7.2/svgs/brands/linkedin.svg" />
+    &nbsp;&nbsp;
+</a>
 </p>
 
 ---
@@ -94,21 +100,20 @@ Let's connect and share knowledge! Feel free to reach out on any of these platfo
 > _"Don't view code as an obstacle, but as a challenge to solve."_
 ---
 ## 🏫 Education
-<!-- SENAI -->
+<div align="left">
 <img height="45" src="https://www.senaibahia.com.br/wp-content/themes/senai/assets/images/logo-senai.png" title="SENAI" />
-
-<!-- Curso em Vídeo -->
-<img height="45" src="./imagens/cursoemvideo.png" title="Curso em Vídeo" />
-
-<!-- Duolingo -->
+ &nbsp;&nbsp;
+<img height="45" src="https://github.com/AlanSouza003/meus-projetos/blob/main/numeros_binarios/images/cursoemvideo.jpg" title="Curso em Vídeo" />
+ &nbsp;&nbsp;
 <img height="45" src="https://cdn.simpleicons.org/duolingo/58CC02" title="Duolingo" />
-
-<!-- DIO -->
+ &nbsp;&nbsp;
 <img height="45" src="https://hermes.digitalinnovation.one/assets/diome/logo.svg" title="DIO.ME" />
-
-<!-- YouTube -->
+ &nbsp;&nbsp;
 <img height="45" src="https://cdn.simpleicons.org/youtube/FF0000" title="YouTube" />
+ &nbsp;&nbsp;
+
 ---
+
 ### 🤝 Connect with me
 ⭐ If you like my profile or some of my projects, feel free to **follow me** or **star** a repository!  
 💬 I am always open to collaborations, partnerships, and cool ideas.
